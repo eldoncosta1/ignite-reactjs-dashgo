@@ -37,6 +37,14 @@ Aplicação com uma interface de um painel administrativo contendo fluxo de aute
 - Fluxo de navegação
 - Sinalizando link ativo
 
+## Formulários e validação
+
+- Formulários no React
+- Atualização React Hook Form
+- Validação dos dados
+- Form de criação de usuário
+- Encerramento do módulo
+
 ## Iniciando aplicação
 
 Para iniciar a aplicação, execute o comando:
