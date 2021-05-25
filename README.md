@@ -25,9 +25,21 @@ Aplicação com uma interface de um painel administrativo contendo fluxo de aute
 - Componente: Pagination
 - Página: Form de usuário
 
-## Getting Started
+## Responsividade
 
-First, run the development server:
+- Separando componentes
+- Responsividade no Chakra
+- Header responsivo
+- Sidebar responsiva
+- Dashboard responsivo
+- Listagem responsiva
+- Cadastro responsivo
+- Fluxo de navegação
+- Sinalizando link ativo
+
+## Iniciando aplicação
+
+Para iniciar a aplicação, execute o comando:
 
 ```bash
 npm run dev
